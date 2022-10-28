@@ -6,7 +6,7 @@ function generator() {
   var suffixes = [
     ' del precariato',
     ' del futuro',
-    ' Intersenzionale',
+    ' Intersezionale',
     ' dell'era oscura',
     'cene',
     ' gotico',
